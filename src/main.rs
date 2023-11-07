@@ -5,7 +5,7 @@ use std::fs;
 //x -> wall
 //o -> box
 //p -> player
-//F -> finish
+//f -> finish
 
 fn main() {
     let args: Vec<String> = env::args().collect();
